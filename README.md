@@ -1,2 +1,2 @@
-# Movie---Analysis
+# Movie-Analysis
 Project of Data Mining Visualization 
